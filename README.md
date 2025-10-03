@@ -1,5 +1,6 @@
 # Preview
-[BlueAlert](https://blue-alert-five.vercel.app/)
+
+[BlueAlert](https://bluealert.vercel.app/)
 ---
 
 # React + TypeScript + Vite
